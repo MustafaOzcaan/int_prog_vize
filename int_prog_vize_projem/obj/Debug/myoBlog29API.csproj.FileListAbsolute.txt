@@ -1,0 +1,98 @@
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\csc.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\System.Collections.Immutable.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\System.Reflection.Metadata.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\vbc.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\VBCSCompiler.exe
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\roslyn\VBCSCompiler.exe.config
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.dll.config
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.pdb
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.SqlServer.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Newtonsoft.Json.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Net.Http.Formatting.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.WebHost.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\EntityFramework.SqlServer.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Newtonsoft.Json.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Net.Http.Formatting.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.WebHost.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.csprojResolveAssemblyReference.cache
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.pdb
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Web.Infrastructure.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Swashbuckle.Core.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\WebActivatorEx.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Cors.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Owin.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Cors.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.Owin.dll
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Cors.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Akdeniz Üniversitesi\_mufredat\_2021-2-Bahar\Int29\myoBlog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.Owin.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\csc.exe
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\System.Collections.Immutable.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\System.Reflection.Metadata.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\vbc.exe
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\VBCSCompiler.exe
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\roslyn\VBCSCompiler.exe.config
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.dll.config
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\myoBlog29API.pdb
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\EntityFramework.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\EntityFramework.SqlServer.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Cors.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Web.Infrastructure.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Newtonsoft.Json.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Owin.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Swashbuckle.Core.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Net.Http.Formatting.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Web.Cors.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.Owin.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.WebHost.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\WebActivatorEx.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\EntityFramework.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\EntityFramework.SqlServer.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Cors.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\Newtonsoft.Json.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Net.Http.Formatting.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.Owin.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\bin\System.Web.Http.WebHost.xml
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.csprojResolveAssemblyReference.cache
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.dll
+D:\TBMYO\Internet2\1129\Blog29\myoBlog29API\myoBlog29API\obj\Debug\myoBlog29API.pdb
